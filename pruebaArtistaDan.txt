@@ -1,0 +1,5 @@
+aaaaaaaaaaaaaaaaaaaaaaaa	f	30	pais	mes 1, año
+bbbbbbbbbbbbbbbbbbbbbbbb	m	40	pais	mes 2, año
+cccccccccccccccccccccccc	f	14	pais	mes 3, año
+dddddddddddddddddddddddd	m	16	pais	mes 4, año
+eeeeeeeeeeeeeeeeeeeeeeee	f	15	pais	mes 5, año
